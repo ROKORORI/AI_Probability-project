@@ -23,5 +23,5 @@ for i in range(1, 6):
                 lotto_in_a_row[i] += 1
                 break
 
-data = pd.DataFrame([lotto_in_a_row[1:6]], columns=['2_num', '3_num', '4_num', '5_num', '6_num'])
-data.to_csv('lotto_in_a_row.csv', index=True)
+data = pd.DataFrame([[1092 - sum(lotto_in_a_row)]+lotto_in_a_row[1:6]], columns=['else','2_num', '3_num', '4_num', '5_num', '6_num'])
+data.to_csv('lotto_in_a_row.csv', index=False)
