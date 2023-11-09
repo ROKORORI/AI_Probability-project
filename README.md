@@ -1,4 +1,5 @@
 # AI_Probability-project
+- if you execute .py file, plz put .csv file in the same path
 
 # I. Data make
   
