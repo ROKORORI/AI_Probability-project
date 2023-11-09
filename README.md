@@ -1,5 +1,6 @@
 # AI_Probability-project
 - if you execute .py file, plz put .csv file in the same path
+#
 
 # I. Data produce
   
@@ -18,3 +19,5 @@
   - [Lotto same place value data](https://github.com/ROKORORI/AI_Probability-project/blob/master/py%20file/lotto_same_place_value.py)
 
       - [Lotto_same_place_value_csv](https://github.com/ROKORORI/AI_Probability-project/blob/master/csv%20file/lotto_same_place_value.csv)
+
+#
