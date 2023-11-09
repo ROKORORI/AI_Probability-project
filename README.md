@@ -8,6 +8,6 @@
 
   - Data Preprocessing
       
-      - [Secondary Dataset make I](https://github.com/ROKORORI/AI_Probability-project/blob/master/lotto_in_a_row.py)
+      - [Data Preprocessing I](https://github.com/ROKORORI/AI_Probability-project/blob/master/lotto_in_a_row.py)
          
           - [output](https://github.com/ROKORORI/AI_Probability-project/blob/master/lotto_in_a_row.csv)
