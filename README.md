@@ -1,6 +1,9 @@
 # AI_Probability-project
+
 - if you execute .py file, plz put .csv file in the same path
+
 #
+
 # I. Data produce
   
   - [Lotto data](https://github.com/ROKORORI/AI_Probability-project/blob/master/py%20file/lotto_data_make.py)
