@@ -14,3 +14,7 @@
   - [Lotto even or odd data](https://github.com/ROKORORI/AI_Probability-project/blob/master/py%20file/lotto_even_or_odd.py)
   
       - [Lotto_even_or_odd_csv](https://github.com/ROKORORI/AI_Probability-project/blob/master/csv%20file/lotto_even_or_odd.csv)
+
+  - [Lotto same place value data](https://github.com/ROKORORI/AI_Probability-project/blob/master/py%20file/lotto_same_place_value.py)
+
+      - [Lotto_same_place_value_csv](https://github.com/ROKORORI/AI_Probability-project/blob/master/csv%20file/lotto_same_place_value.csv)
