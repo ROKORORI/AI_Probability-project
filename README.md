@@ -21,5 +21,9 @@
   - [Lotto same place value data produce](https://github.com/ROKORORI/AI_Probability-project/blob/master/py%20file/lotto_same_place_value.py)
 
       - [Lotto_same_place_value_csv](https://github.com/ROKORORI/AI_Probability-project/blob/master/csv%20file/lotto_same_place_value.csv)
+      #
+  - [Lotto_num_cnt_data_produce](https://github.com/ROKORORI/AI_Probability-project/blob/master/py%20file/lotto_num_cnt.py)
 
+      - [Lotto_num_cnt_csv](https://github.com/ROKORORI/AI_Probability-project/blob/master/csv%20file/lotto_num_cnt.csv)
+      #
 #
