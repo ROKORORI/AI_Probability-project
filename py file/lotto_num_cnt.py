@@ -15,7 +15,7 @@ for i in lotto_num:
     for j in range(6):
         num_cnt[int(i[j])] += 1
 number_list = list(num_cnt[1:])
-print(number_list)
+
 data = pd.DataFrame(number_list, index=range(1, 46), columns=['cnt'])
 for i in range(1, 46):
     data.loc[i, 'cnt'] = num_cnt[i]
